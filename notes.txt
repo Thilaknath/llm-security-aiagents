@@ -1,0 +1,13 @@
+//AI Core Deployment
+
+{
+  "resourceGroupId": "openai",
+  "tenantId": "1fc22a21-4c18-46c9-9228-36ad704c3cc1"
+}
+
+//Open AI Configuration
+{
+  "id": "de8ae70a-cbb5-4263-a801-6dd65460574b",
+  "message": "Configuration created"
+}
+
